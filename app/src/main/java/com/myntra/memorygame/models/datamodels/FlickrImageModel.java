@@ -1,11 +1,5 @@
 package com.myntra.memorygame.models.datamodels;
 
-import com.squareup.moshi.Json;
-
-/**
- * Created by kapilbakshi on 07/05/17.
- */
-
 public class FlickrImageModel {
 
     private Media media;

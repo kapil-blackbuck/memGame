@@ -5,10 +5,6 @@ import com.squareup.moshi.Json;
 
 import java.util.List;
 
-/**
- * Created by kapilbakshi on 07/05/17.
- */
-
 public class FlickrApiResponseModel {
 
     @Json(name = "items")
