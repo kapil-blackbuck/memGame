@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loading</string>
+    <string name="game_over_title">Game Over !</string>
+    <string name="game_over_message">You have tapped on all the tiles to guess the correct image</string>
+    <string name="guessing_message">Tap the tile corresponding to the following image</string>
+    <string name="correct_guess_message">Correct! Well Done</string>
+    <string name="wrong_guess_message">Wrong! Try Again</string>
+    <string name="play_again">Play Again</string>
+    <string name="exit">Exit</string>
+    <string name="no_internet">Check your internet connectivity</string>
+
+</resources>

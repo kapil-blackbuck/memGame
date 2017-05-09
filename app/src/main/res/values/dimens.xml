@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="tile_width">80dp</dimen>
+    <dimen name="tile_height">80dp</dimen>
+    <dimen name="timer_text_size">25sp</dimen>
+    <dimen name="guess_text_size">7sp</dimen>
+    <dimen name="correct_guess_text_size">10sp</dimen>
+    <dimen name="wrong_guess_text_size">10sp</dimen>
+</resources>
