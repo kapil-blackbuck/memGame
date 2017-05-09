@@ -1,8 +1,6 @@
 package com.myntra.memorygame.viewmodels;
 
-import android.widget.Toast;
-
-import utils.Utility;
+import com.myntra.memorygame.utils.Utility;
 import com.myntra.memorygame.models.datamodels.FlickrImageModel;
 import com.myntra.memorygame.models.responsemodels.FlickrApiResponseModel;
 import com.myntra.memorygame.networking.NetworkApis;

@@ -1,4 +1,4 @@
-package utils;
+package com.myntra.memorygame.utils;
 
 import java.util.List;
 import java.util.Random;
