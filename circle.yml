@@ -25,7 +25,7 @@ dependencies:
  post:
      - ./gradlew :app:assembleDebug -PdisablePreDex
      - ./gradlew :app:assembleAndroidTest -PdisablePreDex
-     - echo $GCLOUD_SERVICE_KEY | base64 --decode > ${HOME}/gcloud-service-key.json
+     - echo $GCLOUD_SERVICE_KEY | base64 --decode --ignore-garbage > ${HOME}/gcloud-service-key.json
      - sudo /opt/google-cloud-sdk/bin/gcloud config set project "blackbuck-1085"
      - sudo /opt/google-cloud-sdk/bin/gcloud --quiet components update
      - sudo /opt/google-cloud-sdk/bin/gcloud --quiet components install beta
