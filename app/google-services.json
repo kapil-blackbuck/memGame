@@ -1,0 +1,1540 @@
+{
+  "project_info": {
+    "project_number": "915257754733",
+    "firebase_url": "https://blackbuck-1085.firebaseio.com",
+    "project_id": "blackbuck-1085",
+    "storage_bucket": "blackbuck-1085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:58127db3d5782800",
+        "android_client_info": {
+          "package_name": "in.zinka.empanelapp.empanelapplication.devl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-ojqavkum07vom9q9bmoq0ifbea8g8ih0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.zinka.empanelapp.empanelapplication.devl",
+            "certificate_hash": "e9136b0ba197b94a842aca7d509a03dba12882dc"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:450fb1f4eff0cc2b",
+        "android_client_info": {
+          "package_name": "in.zinka.androidclient.devl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-7m6l45d5pmba7bvphkpsrhhjt4blq3am.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.zinka.androidclient.devl",
+            "certificate_hash": "e9136b0ba197b94a842aca7d509a03dba12882dc"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:6b06d28a3030053a",
+        "android_client_info": {
+          "package_name": "in.zinka.androidclient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-t5jtp4sria91gasvfjnm6rlrkj14gocq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.zinka.androidclient",
+            "certificate_hash": "f6984324f25fede2b7791881edf3d8e5ac7188e3"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:4b051b92bd18e79a",
+        "android_client_info": {
+          "package_name": "in.zinka.empanelapp.empanelapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-90jo90omfkc3ffulsejtgfddg9tetmk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.zinka.empanelapp.empanelapplication",
+            "certificate_hash": "f6984324f25fede2b7791881edf3d8e5ac7188e3"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:7924fdff10637323",
+        "android_client_info": {
+          "package_name": "com.blackbuck.sme.devl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-08d88ugneo9k67bbpekebv6fgvmvpu5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbuck.sme.devl",
+            "certificate_hash": "e9136b0ba197b94a842aca7d509a03dba12882dc"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:8db6f849544c568c",
+        "android_client_info": {
+          "package_name": "com.blackbuck.sme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-tophg9rd3jmdksj71qjfcdhpe1o2gesm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbuck.sme",
+            "certificate_hash": "f6984324f25fede2b7791881edf3d8e5ac7188e3"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:3e1122bc87b4e3ce",
+        "android_client_info": {
+          "package_name": "com.blackbuck.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-a6frdephhgfkptaesal8parlt0ta4h7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbuck.driver",
+            "certificate_hash": "f6984324f25fede2b7791881edf3d8e5ac7188e3"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:6762286a7a7d488d",
+        "android_client_info": {
+          "package_name": "com.blackbuck.driver.devl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-3csb7mr1tp6lnqv2o383lcfh4tvsqnmm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbuck.driver.devl",
+            "certificate_hash": "e9136b0ba197b94a842aca7d509a03dba12882dc"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:a9f2ba059b8789ed",
+        "android_client_info": {
+          "package_name": "com.blackbuck.driver.stg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-5aov69igv2l9ofphc243jsoa0luohpss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbuck.driver.stg",
+            "certificate_hash": "e9136b0ba197b94a842aca7d509a03dba12882dc"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:dc5529a1e03d0a94",
+        "android_client_info": {
+          "package_name": "com.blackbuck.ops.devl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-t5h6haiscfdjr7066d8d4ukjars3if0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbuck.ops.devl",
+            "certificate_hash": "e9136b0ba197b94a842aca7d509a03dba12882dc"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:5c2142c710930ea0",
+        "android_client_info": {
+          "package_name": "com.blackbuck.ops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-lbcf548ntci57ekfpo3v6l0i7bvumoa6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbuck.ops",
+            "certificate_hash": "f6984324f25fede2b7791881edf3d8e5ac7188e3"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:bfac2a11c0ec57f9",
+        "android_client_info": {
+          "package_name": "com.blackbuck.sme.demand.devl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-itdf20hmkjojb9vok8m4v91sd334cnlv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbuck.sme.demand.devl",
+            "certificate_hash": "e9136b0ba197b94a842aca7d509a03dba12882dc"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:b1993ab133921069",
+        "android_client_info": {
+          "package_name": "com.blackbuck.sme.demand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-jk1h3uvdiu91k7ssr1i0m3i9f54d49b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackbuck.sme.demand",
+            "certificate_hash": "f6984324f25fede2b7791881edf3d8e5ac7188e3"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:2867581bfc94ecb6",
+        "android_client_info": {
+          "package_name": "in.zinka.androidclient.supplydev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-o5cue3agm55unu9gugifkae8gj8s5a1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.zinka.androidclient.supplydev",
+            "certificate_hash": "e9136b0ba197b94a842aca7d509a03dba12882dc"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:ff379c9c4c7c9510",
+        "android_client_info": {
+          "package_name": "in.zinka.androidclient.supplyprod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-gajdjsh7jo9mq816rc1tl0430bqmqf2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.zinka.androidclient.supplyprod",
+            "certificate_hash": "f6984324f25fede2b7791881edf3d8e5ac7188e3"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:59d7606f1cb49488",
+        "android_client_info": {
+          "package_name": "com.assist.driver.devl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-3iobpavoifo825sl2ikfbdb8o3e0l7gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assist.driver.devl",
+            "certificate_hash": "e9136b0ba197b94a842aca7d509a03dba12882dc"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:79a769561ca516cd",
+        "android_client_info": {
+          "package_name": "com.assist.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-rumbd5vgn1mpcqu88f8901ka42piag8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assist.driver",
+            "certificate_hash": "f6984324f25fede2b7791881edf3d8e5ac7188e3"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915257754733:android:40c885e521c5e430",
+        "android_client_info": {
+          "package_name": "com.myntra.memorygame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915257754733-4mpef070sibrq30j7svfku0djq7cskvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myntra.memorygame",
+            "certificate_hash": "610581765e2cdf09124881fd27045b45028438bc"
+          }
+        },
+        {
+          "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-66531oac7k7sb5ngllfv8oq6ni08gui5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qp710go1rm24kljs7km92a279high36n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qcfp8thfsau3m2ckq5o536p4jf4b50o8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-itnhm3n9evhdakaplgmk8civ5kbocs60.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-km74akd20k21rrvf1aoq539m0njvkgoe.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-a5asgjrs9tk9s88nchod11lu4i5u616r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-qmqvijn0q4hhhae5jrsf2nvuhgkjjq9n.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-mk8a324jmtobj20q9r4v9erjqc48s0no.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-dohu3hetag5fhguffmhpf5i7kmrt4bat.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-ljlnlorghvin3j3nthe6e6k0vlsu9es9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "915257754733-pl48emlo1rpqhh116edtn5sl20nma6of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcH953k_3sYd0kKgvYQYrgB_750S40u0k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915257754733-98bqb0f1nmhoi3c8rtekgu8bq5rje5uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
