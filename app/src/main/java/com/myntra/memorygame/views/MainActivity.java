@@ -67,12 +67,10 @@ public class MainActivity extends AppCompatActivity {
         activityMainBinding.contentMain.tilesRecyclerView.setLayoutManager(new GridLayoutManager(this, NO_OF_GRID_COLUMNS));
         activityMainBinding.contentMain.tilesRecyclerView.setAdapter(gameImagesAdapter);
     }
-
     private void getImages() {
         showProgressDialog(getResources().getString(R.string.loading));
         viewModel.getImages();
     }
-
     /**
      * Registering all subscriptions
      */
@@ -327,7 +325,6 @@ public class MainActivity extends AppCompatActivity {
         activityMainBinding.contentMain.statusTextView.setTextSize(getResources().getDimension(R.dimen.timer_text_size));
         activityMainBinding.contentMain.statusTextView.setTextColor(Color.BLACK);
     }
-
     /**
      * Restarting the game
      */
@@ -335,7 +332,6 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(MainActivity.this, MainActivity.class));
         finish();
     }
-
     /**
      * Would be called to assign an image from the retrieved set of Images.
      * The player would have to tap the file having this image
